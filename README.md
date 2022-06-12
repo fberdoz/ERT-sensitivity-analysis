@@ -5,7 +5,7 @@ Master CSE - semester project (8 credits ECTS)
 This folder cointains all the code that was developped to perform a sensitivity
 analysis on the ERT Matlab simulator. This was part of a
 semester project done by Frédéric Berdoz and supervised by Dr Philippe Müllhaupt, during the fall semester of 2020. 
-The report containing all the supporting theory can be found in the ERT drive.
+The [report](/SensitivityAnalysis.pdf) containing all the supporting theory can also be found in the ERT drive.
 ## Content
 
 * `SensitivityAnalysis.pdf`: Project report.
